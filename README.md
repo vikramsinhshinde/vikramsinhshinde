@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @vikramsinhshinde
-- 👀 I’m interested in aws git projects
-- 🌱 I’m currently learning aws
+- 👋 Hi, I’m vikramsinh shinde
+- 👀 I’m interested in aws/devops git projects
+- 🌱 I’m currently working in PJSOFTTECH.PVT.LTD for role AWS Solution Architect.
 - 💞️ I’m looking to collaborate on cloud computing projects
 - 📫 How to reach me -vikramsinhshindesinh@gmail.com
-- 😄 Pronouns:  freedom
-- ⚡ Fun fact: join me to collab and do projects with me with free 
+- 😄 Pronouns:  freedom to explore 
+- ⚡ Fun fact: join me to collab and do projects with me with for free 
 
 <!---
 vikramsinhshinde/vikramsinhshinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
