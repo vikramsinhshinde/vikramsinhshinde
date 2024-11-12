@@ -1,4 +1,5 @@
 - 👋 Hi, I’m vikramsinh shinde
+- I Am Devops Engineer/ AWS Solution Architech/ Linux System Admin /CISCO Network Engineer
 - 👀 I’m interested in aws/devops git projects
 - 🌱 I’m currently working in PJSOFTTECH.PVT.LTD for role AWS Solution Architect.
 - 💞️ I’m looking to collaborate on cloud computing projects
