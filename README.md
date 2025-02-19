@@ -28,6 +28,19 @@ I'm an **AWS DevOps / Cloud Solution Architect** with expertise in cloud computi
 ![Nexus](https://img.shields.io/badge/Nexus-1E2A3A?style=for-the-badge&logo=sonatype&logoColor=white)  
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)  
 ![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-EE0000?style=for-the-badge&logo=trivy&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
+![Apache2](https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white)  
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)  
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)  
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)  
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-F8991D?style=for-the-badge&logo=amazon-ec2&logoColor=white)  
+![AWS VPC](https://img.shields.io/badge/AWS%20VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![AWS EKS](https://img.shields.io/badge/AWS%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)  
+![AWS ECS](https://img.shields.io/badge/AWS%20ECS-1488C6?style=for-the-badge&logo=amazon-ecs&logoColor=white)  
+![AWS Ingress](https://img.shields.io/badge/AWS%20Ingress-0052CC?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📌 Current Projects
 - **Data Migration**: Moving assets from Cloudinary to AWS S3.
