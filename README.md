@@ -41,7 +41,7 @@ I'm an **AWS DevOps / Cloud Solution Architect** with expertise in cloud computi
 - [DevOps: The Now and Future of Software Development and Delivery](https://vikramsinhshindes.blogspot.com/2024/12/devops-now-and-future.html)
 
 ## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=email&logoColor=white)](vikramsinhshindesinh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikramsinhshindesinh@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=blue)](https://vikramsinhshinde.github.io/portfolio/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramsinh-shinde-b9285aa4)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramsinhShinde)  
