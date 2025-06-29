@@ -1,7 +1,48 @@
-# Hi there! 👋 I'm Vikramsinh Shinde
+# 👋 Hi, I'm Vikramsinh Shinde
 
-## 🚀 About Me
-I'm an **AWS DevOps / Cloud Solution Architect** with expertise in cloud computing, DevOps, and automation. Passionate about optimizing infrastructure, automating deployments, and enhancing operational efficiency. Currently, I'm working on **CI/CD pipelines, Domain management, Cost optimization, data migration from Cloudinary to AWS S3** and expanding my knowledge in **Kubernetes, Docker, Ansible, Jenkins, CI/CD pipelines,  Nagios, and Terraform**.
+🚀 DevOps Engineer | AWS Solutions Architect | SRE  
+📍 Based in Pune, India  
+💼 1.7+ years of experience in DevOps, CI/CD, Kubernetes, and Cloud Engineering
+
+---
+
+## 🔧 Skills & Tools
+**Cloud:** AWS, GCP, Azure  
+**DevOps:** Docker, Kubernetes, Jenkins, Terraform, Helm, Argo CD  
+**Monitoring:** Prometheus, Grafana, AWS CloudWatch  
+**Languages:** Python, Bash, YAML, SQL  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**IaC & Security:** Terraform, CloudFormation, IAM, AWS WAF
+
+---
+
+## 📂 Featured Projects
+
+### 🧠 Face Recognition Attendance System
+> Real-time attendance system using Python, OpenCV, AWS S3  
+[🔗 View Repo](https://github.com/yourusername/face-recognition-attendance)
+
+### 📦 Java Web App CI/CD Pipeline
+> Docker + Jenkins + Nexus + AWS pipeline  
+[🔗 View Repo](https://github.com/yourusername/java-cicd-pipeline)
+
+### ☁️ Kubernetes Migration
+> Migrated legacy apps to AWS EKS with Helm, Blue-Green deployment  
+[🔗 View Repo](https://github.com/yourusername/kubernetes-migration)
+
+---
+
+## 📈 GitHub Stats
+
+![Vikramsinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikramsinhshinde&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](https://linkedin.com/in/vikramsinh-shinde)
+- [Portfolio Website](https://vikramsinhshinde.github.io/portfolio)
+- [Blog](https://vikramsinhshindes.blogspot.com)
+
 
 ## 💡 What I Do
 - Architect and deploy **AWS solutions** for scalability and efficiency.
