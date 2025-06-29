@@ -1,105 +1,70 @@
-# 👋 Hi, I'm Vikramsinh Shinde
+# Vikramsinh Shinde | DevOps Engineer | AWS Solutions Architect | SRE
 
-🚀 DevOps Engineer | AWS Solutions Architect | SRE  
-📍 Based in Pune, India  
-💼 1.7+ years of experience in DevOps, CI/CD, Kubernetes, and Cloud Engineering
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+Certified+Solutions+Architect;Kubernetes+Specialist;Infrastructure+as+Code+Expert;CI%2FCD+Pipeline+Automation" alt="Typing SVG" />
+</div>
 
----
+## 👨‍💻 About Me
 
-## 🔧 Skills & Tools
-**Cloud:** AWS, GCP, Azure  
-**DevOps:** Docker, Kubernetes, Jenkins, Terraform, Helm, Argo CD  
-**Monitoring:** Prometheus, Grafana, AWS CloudWatch  
-**Languages:** Python, Bash, YAML, SQL  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**IaC & Security:** Terraform, CloudFormation, IAM, AWS WAF
+```text
+📍 Based in: Pune, India
+🎓 Education: B.E. in Computer Engineering
+💼 Experience: 1.7+ years in DevOps and Cloud Engineering
+🔭 Current Focus: Cloud-Native DevOps, Kubernetes Orchestration, and SRE Practices
+🛠️ Technical Skills
+☁️ Cloud Platforms
+https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900
+https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white
+https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white
 
----
+🚀 DevOps Tools
+https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
+https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white
+https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white
+https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white
+https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white
+https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white
 
-## 📂 Featured Projects
+📊 Monitoring & Logging
+https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white
+https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white
+https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white
 
-### 🧠 Face Recognition Attendance System
-> Real-time attendance system using Python, OpenCV, AWS S3  
-[🔗 View Repo](https://github.com/yourusername/face-recognition-attendance)
+💻 Programming & Scripting
+https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white
+https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white
 
-### 📦 Java Web App CI/CD Pipeline
-> Docker + Jenkins + Nexus + AWS pipeline  
-[🔗 View Repo](https://github.com/yourusername/java-cicd-pipeline)
+🏆 Featured Projects
+1. Face Recognition Attendance System
+Tech Stack: Python, OpenCV, FastAPI, AWS S3, Redis
+✅ Real-time facial recognition authentication
+✅ Cloud-based storage for attendance records
+✅ Scalable microservices architecture
+https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white
 
-### ☁️ Kubernetes Migration
-> Migrated legacy apps to AWS EKS with Helm, Blue-Green deployment  
-[🔗 View Repo](https://github.com/yourusername/kubernetes-migration)
+2. Java Web App CI/CD Pipeline
+Tech Stack: Docker, Jenkins, Maven, Nexus, AWS
+✅ End-to-end automation from code commit to production
+✅ Infrastructure as Code with Terraform
+✅ Security scanning with Trivy and SonarQube
+https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white
 
----
+3. Kubernetes Migration Project
+Tech Stack: EKS, Helm, ArgoCD, Prometheus
+✅ Legacy application modernization
+✅ Blue-Green deployment strategy
+✅ Auto-scaling and self-healing infrastructure
+https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white
 
-## 📈 GitHub Stats
+📈 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikramsinhshinde&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramsinhshinde&layout=compact&langs_count=8&theme=radical"/> </div>
+📝 Latest Blog Posts
+Corporate CI/CD Pipeline Implementation
 
-![Vikramsinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikramsinhshinde&show_icons=true&theme=radical)
+DevOps Project Using Docker Swarm
 
----
+Essential Linux Commands for System Admins
 
-## 📫 Connect With Me
-- [LinkedIn](https://linkedin.com/in/vikramsinh-shinde)
-- [Portfolio Website](https://vikramsinhshinde.github.io/portfolio)
-- [Blog](https://vikramsinhshindes.blogspot.com)
-
-
-## 💡 What I Do
-- Architect and deploy **AWS solutions** for scalability and efficiency.
-- Implement **DevOps practices** using **Ansible, Jenkins, Docker, and GitHub**.
-- Manage **Linux/Ubuntu servers, networking (CCNA), and cloud security**.
-- Develop and manage **Institute Management Software and apps, Multiple Static and Dynamic Websites Hosting and management**.
-- Configure and optimize **Apache2, MySQL RDS, and virtual hosts**.
-- Teaching **AWS as a professional course**.
-
-## 🛠️ Technologies & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624?style=for-the-badge&logo=ubuntu&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Nexus](https://img.shields.io/badge/Nexus-1E2A3A?style=for-the-badge&logo=sonatype&logoColor=white)  
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)  
-![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-EE0000?style=for-the-badge&logo=trivy&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
-![Apache2](https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white)  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)  
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)  
-![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)  
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-F8991D?style=for-the-badge&logo=amazon-ec2&logoColor=white)  
-![AWS VPC](https://img.shields.io/badge/AWS%20VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![AWS EKS](https://img.shields.io/badge/AWS%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)  
-![AWS ECS](https://img.shields.io/badge/AWS%20ECS-1488C6?style=for-the-badge&logo=amazon-ecs&logoColor=white)  
-![AWS Ingress](https://img.shields.io/badge/AWS%20Ingress-0052CC?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## 📌 Current Projects
-- **Data Migration**: Moving assets from Cloudinary to AWS S3.
-- **Optimizing Cloud Costs**: Reducing AWS RDS MySQL expenses.
-- **Teaching AWS**: Designing a structured AWS course.
-
-## 📚 Blogs
-- [Corporate CI/CD Pipeline](https://vikramsinhshindes.blogspot.com/2024/12/corporate-cicd-pipeline.html)
-- [DevOps Project Using Docker Swarm](https://vikramsinhshindes.blogspot.com/2025/01/devops-project-by-using-docker-swarm.html)
-- [Essential Linux Commands for System Administrators](https://vikramsinhshindes.blogspot.com/2024/12/essential-linux-commands-for-system.html).
-- [DevOps: The Now and Future of Software Development and Delivery](https://vikramsinhshindes.blogspot.com/2024/12/devops-now-and-future.html)
-
-## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikramsinhshindesinh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=blue)](https://vikramsinhshinde.github.io/portfolio/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramsinh-shinde-b9285aa4)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VikramsinhShinde)  
-[![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/vikramsinhshinde)  
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pjsofttech.in)  
-
-Let's innovate and build something amazing! 🚀
+🤝 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/vikramsinh-shinde-b9285aa4"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:vikramsinhshindesinh@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://vikramsinhshinde.github.io/portfolio/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="https://hub.docker.com/u/vikramsinhshinde"> <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </a> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=vikramsinhshinde&label=Profile%20views&color=0e75b6&style=flat" alt="vikramsinhshinde" /> </div> ```
