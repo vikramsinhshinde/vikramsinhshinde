@@ -8,7 +8,7 @@
 
 🚀 **DevOps Engineer | AWS Solutions Architect | SRE**
 📍 Pune, India
-💼 1.7+ years of experience in cloud-native DevOps, CI/CD pipelines, Kubernetes orchestration, and cloud infrastructure
+💼 2.5+ years of experience in cloud-native DevOps, CI/CD pipelines, Kubernetes orchestration, and cloud infrastructure
 
 ---
 
